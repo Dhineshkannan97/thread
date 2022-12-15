@@ -1,7 +1,4 @@
 package sockets2;
-
-import twowayscoket.ClientHandler;
-
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
